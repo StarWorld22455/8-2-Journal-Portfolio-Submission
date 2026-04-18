@@ -20,5 +20,5 @@ If I were to choose one part of your work on these documents to revise, I would 
 I helped interpret the user’s needs and implement them into my software design by making sure they have an efficient user experience and that their detailed information was secured. I had to make sure I satisfied the needs of the user since they would use the application to play the designed game themselves. If I design the product with features that do not satisfy the user’s needs, they would not be able to buy or play it and might not show any interest in upcoming products.
 
 - How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-- 
+
 Some of the things I approached in designing software were making sure I carefully provide the following research, details, and recommendations in the documentation that satisfy the client’s requirements. Providing this coding documentation to the client would ensure that these types of information can be applied for other different applications for future gaming operations. This provides developers enough knowledge in analyzing how to use each part of the code that meets their desires.
