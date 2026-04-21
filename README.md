@@ -3,11 +3,11 @@
 
 The Gaming Room client requested their gaming application platform to be expanded to fit in their game, Draw It or Lose It, so users would be able to participate in playing it across different applications, when it was only available on mobile platforms by the time of the client’s request. Some of the existing requirements for the application included giving each team a unique name and allowing the game to involve at least one team playing. The types of features the client requested for the software were having teams having unique names, how a game would allow more than one team to play and having only one game exist in memory at a particular time.
 
--What did you do particularly well in developing this documentation?
+- What did you do particularly well in developing this documentation?
 
 One of the things that I did partially well in developing this documentation included providing the client The Gaming Room critical information about expanding the application to include their established game, as well as providing research and recommendations needed that are required in the documentation. Using these types of facts and research are essential in meeting up with the client’s desires in creating the project accurately.
 
--What about the process of working through a design document did you find helpful when developing the code?
+- What about the process of working through a design document did you find helpful when developing the code?
 
 One part about working on a design document that I found helpful when developing the code was keeping myself tasked with a certain project being assigned to me. That means I should lay out the directions and decide what kinds of tasks are important for me to complete and what tasks do not require time to be finished in order to finish a specific project.
 
